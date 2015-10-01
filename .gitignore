@@ -3,3 +3,8 @@ npm-debug.log
 *.db
 .idea
 .git
+
+# Divshot
+.divshot-cache/
+divshot-debug.log
+divshot.json
