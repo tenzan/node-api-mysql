@@ -1,6 +1,5 @@
 module.exports = {
   client: 'mysql',
-  debug: true,
   connection:  {
       host      : process.env.HOSTGATOR_HOST,
       user      : process.env.HOSTGATOR_USER,
